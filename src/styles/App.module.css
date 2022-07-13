@@ -1,0 +1,23 @@
+:root{
+  --dark-blue: #233142;
+  --creamy: #e3e3e3;
+}
+
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.app {
+  position: relative;
+  background: var(--dark-blue);
+  color: var(--creamy);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
