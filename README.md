@@ -9,4 +9,4 @@ Clicking on RESET button will clear the localstorage and all the inputs.
 
 Folder Structure 
 
-image.png
+![](cloudbaseform\public\folderstructure.jpg?raw=true)
