@@ -9,4 +9,4 @@ Clicking on RESET button will clear the localstorage and all the inputs.
 
 Folder Structure 
 
-![](public/folderstructure.jpg)
+<img src="public/folderstructure.jpg" width="300" height="500">
