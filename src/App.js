@@ -74,6 +74,10 @@ function App() {
   }
 
   const resetForm = () => {
+    dispatchEmail({type:'reset'})
+    dispatchFN({type:'reset'})
+    dispatchLN({type:'reset'})
+    
     firstNameRef.current.value = '';
     lastNameRef.current.value = '';
     emailRef.current.value = '';
